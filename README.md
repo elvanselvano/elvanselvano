@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Elvan 👋</h2>
 
-<p><em>Data Scientist at <a href="https://temandata.com/">Teman Data</a></br>Graduate Computer Science Student at <a href="https://binus.ac.id/">Binus University</a>
+<p><em>Software Engineer at <a href="https://temandata.com/">Bukalapak</a></br>Graduate Computer Science Student at <a href="https://binus.ac.id/">Binus University</a>
 </em></p>
 
 [![gmail](https://img.shields.io/badge/Gmail-elvanselvano71%40gmail.com-red)](mailto:elvanselvano71@gmail.com)

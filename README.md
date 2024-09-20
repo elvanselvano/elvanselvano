@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Elvan 👋</h2>
 
-<p><em>Software Engineer at <a href="https://www.bukalapak.com/">Bukalapak</a></br>Graduate Computer Science Student at <a href="https://binus.ac.id/">Binus University</a>
+<p><em>Software Engineer at <a href="https://www.traveloka.com">Traveloka</a></br>CS Master's at <a href="https://binus.ac.id/">Binus University</a>
 </em></p>
 
 [![gmail](https://img.shields.io/badge/Gmail-elvanselvano71%40gmail.com-red)](mailto:elvanselvano71@gmail.com)
